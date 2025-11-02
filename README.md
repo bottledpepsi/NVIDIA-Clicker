@@ -1,6 +1,6 @@
-# NVIDIA Clicker Web Game
+# NVIDIA Clicker
 
-This is a browser game made with HTML, CSS, and JavaScript.
+This is a web game made with HTML, CSS, and JavaScript.
 
 ### Play the Game
 
