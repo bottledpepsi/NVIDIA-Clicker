@@ -4,7 +4,7 @@ This is a web game made with HTML, CSS, and JavaScript.
 
 ### Play the Game
 
-[Click here to play](https://smo0008.github.io/NVIDIA-CLICKER/)
+[Click here to play](https://bottledpepsi.github.io/NVIDIA-CLICKER/)
 
 ### How to Use
 
